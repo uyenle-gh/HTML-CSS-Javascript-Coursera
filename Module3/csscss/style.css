@@ -1,0 +1,95 @@
+body {
+	color: #000000;
+	font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.sr-only {
+  position: absolute;
+  margin: -1px 0 0 -1px;    
+  padding: 0;
+  display: block;
+  width: 1px;
+  height: 1px;
+  font-size: 1px;
+  line-height: 1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+  outline: 0;    
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #B7B1B1;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+
+}
+.navbar-brand h1 {
+  color: #000000;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand a {
+	text-decoration: none;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+#nav-list a {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+#nav-list {
+  color: white;
+}
+
+/** END HEADER */
+
+#main-content {
+    width: 92%;
+    margin-bottom: 30px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-content h4 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #B07E7E;
+    margin-bottom: 60px;
+}
