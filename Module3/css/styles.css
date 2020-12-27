@@ -47,19 +47,23 @@ body {
     border-top: 0;
 }
 
-#nav-list a {
+.button {
+	color: #B07E7E;
+}
+
+.nav-item {
   text-align: center;
   font-weight: bolder;
   font-size: 1.2em;
+	background-color: #000000;
+	color: #FFFFFF;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-header .navbar-toggler, .navbar-header {
   border: 1px solid #61122f;
+	background-color: #000000;
 }
 
-#nav-list {
-  color: white;
-}
 
 /** END HEADER */
 
