@@ -48,7 +48,7 @@ body {
 }
 
 .navbar-toggler {
-	color: #B07E7E;
+	background-color: #B07E7E;
 }
 
 .nav-item {
@@ -56,9 +56,10 @@ body {
   font-weight: bolder;
   font-size: 1.2em;
 	color: #FFFFFF;
+	background-color: #f5f0f0;
 }
 
-.navbar-header .navbar-toggler, .navbar-header {
+.navbar-toggler {
   border: 1px solid #61122f;
 }
 
@@ -92,7 +93,7 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#chicken, #beef, #sushi {
     width: 100%;
     padding: 20px;
     background-color: #B07E7E;
