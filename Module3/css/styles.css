@@ -47,18 +47,24 @@ body {
     border-top: 0;
 }
 
-#nav-list a {
+.navbar-toggler {
+	background-color: #B07E7E;
+}
+
+.nav-item {
   text-align: center;
   font-weight: bolder;
   font-size: 1.2em;
+	color: #FFFFFF;
+	background-color: #f5f0f0;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-toggler {
   border: 1px solid #61122f;
 }
 
-#nav-list {
-  color: white;
+.button {
+	background-color: #FFFFFF;
 }
 
 /** END HEADER */
@@ -87,7 +93,7 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#chicken, #beef, #sushi {
     width: 100%;
     padding: 20px;
     background-color: #B07E7E;
