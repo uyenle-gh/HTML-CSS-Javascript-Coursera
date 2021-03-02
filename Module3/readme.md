@@ -1,8 +1,6 @@
-# Module 3
+# Module 3 Coding Assignment
 
 [Solution](https://gracele239.github.io/coursera-test/Module3)
-
-# Module 3 Coding Assignment
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
@@ -48,19 +46,6 @@ The dropdown menu should take up the entire width of the browser window. Make su
 (_Hint: look for a Bootstrap class that centers text, see_ [_https://getbootstrap.com/docs/3.3/css/#type-alignment_](https://getbootstrap.com/docs/3.3/css/#type-alignment)_._)
 
 11.  Create a single really tall section that will use the Bootstrap Grid and take up the entire width of the browser window (minus some margins, of course) for all views: desktop, tablet, and mobile. To make the section really tall, you can either fill it out with a LOT of text or simply set its height to something like 1000px. It needs to be tall enough to cause scrolling down to be required to view the bottom of the section. Make sure its background color is set to distinguish it from the rest of the content. (_Hint: don't forget to have an element with a class='container' or class='container-fluid' wrapping your grid. Remember that to have the grid do something "always", i.e., no matter what browser window size, use the `col-xs-`... classes. In this case, since we want the section to take up the entire row, use `col-xs-12`._)
-
-
-Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
-
- ![Desktop and Tablet](images/desktop.png)
-
-
-Here is the mockup illustration of the mobile view (only required graded parts are shown):
-
- ![mobile collapsed](images/menu-collapsed.png)
-
- ![mobile expanded](images/mobile-expanded.png)
-
 
 **&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**  
 <br>
