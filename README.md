@@ -4,7 +4,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://gracele239.github.io/coursera-test/Certification.png)
+![Course Completion certificate](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Certification.png)
 
 
 # Assignments:
@@ -18,7 +18,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs:
 
-* [Module-2](https://gracele239.github.io/coursera-test/Module2)
-* [Module-3](https://gracele239.github.io/coursera-test/Module3)
-* [Module-4](https://gracele239.github.io/coursera-test/Module4)
-* [Module-5](https://gracele239.github.io/coursera-test/Module5)
+* [Module-2](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module2)
+* [Module-3](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module3)
+* [Module-4](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module4)
+* [Module-5](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module5)
