@@ -1,6 +1,6 @@
 # Module 5 Coding Assignment
 
-Solution (https://gracele239.github.io/coursera-test/Module5)
+[Solution] (https://gracele239.github.io/coursera-test/Module5)
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
