@@ -6,4 +6,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 ![Course Completion certificate](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Certification.png)
 
-# Final Output: [Restaurant Website](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module5)
+**Final Output:** [David Chu's China Bistro Restaurant Website](https://gracele239.github.io/HTML-CSS-Javascript-Coursera/Module5)
